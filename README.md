@@ -1,6 +1,8 @@
-# flutter_complete_guide
+# Khalories
 
-A new Flutter project.
+A calorie tracking app, focused on the institute mess, helping users calculate their calories intake. This app allows users to input day of the week and then the users can select the meal and the combination of items they have consumed or want to consume, and then the app calculates and shows the calories consumed by the user. There is an option for some items where the user can input the quantity (in gms) consumed.
+
+https://www.canva.com/design/DAFO3jTUWys/R-oUIrx9X3KWr90LgYL7Bg/view?utm_content=DAFO3jTUWys&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 ## Getting Started
 
